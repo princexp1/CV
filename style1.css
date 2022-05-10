@@ -1,0 +1,31 @@
+/********* Tag Selector **********/
+img:hover {
+  background-color: gold;
+  
+}
+
+
+/******** Class Selector ***********/
+.man {
+  background-color: green;
+
+}
+
+.woman {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 50%;
+
+}
+
+/******** ID Selector ***********/
+
+#Heading{
+  color: grey;
+
+}
+#Big{
+  font-size: 1000px;
+}
